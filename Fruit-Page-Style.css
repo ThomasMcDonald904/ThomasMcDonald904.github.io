@@ -1,0 +1,51 @@
+.orange-body {
+
+background-color: #ffb84d;
+
+}
+
+.banana-body {
+
+background-color: #ffff80;
+
+
+}
+.strawberry-body {
+
+background-color: #ff6666;
+
+}
+.apple-body {
+
+background-color: #ff3333;
+
+
+
+}
+
+
+.buttonReturn {
+
+background-color: white;
+
+color: black;
+    
+border: 2px solid black;
+    
+transition-duration: 0.4s;
+    
+width: 150px;
+
+
+
+}
+
+.buttonReturn:hover {
+
+  
+    
+    width: 130px;
+    
+   
+
+}
